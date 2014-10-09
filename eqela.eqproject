@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SceneSwitching
+#
+
+projectname: SceneSwitching
+vendorid: com.trick
+mainmodule: com.trick.sceneswitching
